@@ -1,8 +1,8 @@
 ---
-title: "[INSERT WORKSHOP SHORT TITLE]"
-subtitle: "[INSERT WORKSHOP EXTENDED TITLE]"
+title: "GSA 2025 Workshop"
+subtitle: "Open Science, Collaboration, and Reproducibility in Paleontology"
 toc: true
-order: 99
+order: 96
 ---
 
 **[INSERT WORKSHOP DATE/TIME]**
@@ -11,7 +11,7 @@ order: 99
 
 # Welcome
 
-[DESCRIPTION OF WORKSHOP]
+Since the development of large paleontological datasets from the 1970s onwards, paleontologists have increasingly adopted computational approaches to address questions about the history of life on Earth. This initiated a “Golden Age” of paleontology, where extensive datasets of various formats are used to test macroevolutionary and macroecological hypotheses. In parallel, the broader scientific community has been pushing for science to become more transparent, equitable, collaborative, and reproducible under the umbrella of “Open Science”. This culminated in 2023 being designated as the “Year of Open Science” by the White House Office of Science and Technology Policy. This short course will bridge these two movements to introduce the tenets of Open Science and how they can be incorporated into existing and future paleontological research workflows. First, we will provide an introduction to collaboration, version control, and data storage via services including Git, GitHub, Zenodo, and FigShare. We will then build upon this foundation by exploring the R programming language. R is one of the most popular languages in the world of data science and has been widely adopted by the paleontological community to clean, analyze, and plot data. General familiarity with R allows users to expand the potential of their research and automate routine tasks. We will introduce a suite of R packages that have been designed to standardize and streamline various parts of paleontological workflows (e.g., data cleaning). As part of this, we will briefly introduce existing paleontological databases (e.g., Paleobiology Database) and how they can be accessed from within the R framework. Finally, we will discuss the use of visualizations and how they can be efficiently and effectively developed to increase the transparency and equitability of paleontological research. This short course will provide a great opportunity for attendees to work with different researchers and gain experience working collaboratively in R to generate reproducible research. Further, we hope that this short course will bring the community together to share resources, reach agreed standards, and improve reproducibility in paleontological research. We anticipate this short course will be of value to paleontologists of all career stages.
 
 ## Arrival
 
@@ -32,25 +32,37 @@ The full schedule for the workshop is available [here](#schedule).
 
 ## Instructors
 
-This edition of the Workshop event is organised and led by the following members of the Palaeoverse team.
+This edition of the Workshop event is organised and led by the following members and friends of the Palaeoverse team.
 
 ::: {.grid}
 
 ::: {.g-col-4}
 
-![INSTRUCTOR 1](https://palaeoverse.org/images/logo.png)
+![**Will Gearty** <br> Syracuse University, USA](images/will.jpg){width="100%"}
 
 :::
 
 ::: {.g-col-4}
 
-![INSTRUCTOR 2](https://palaeoverse.org/images/logo.png)
+![**Erin Dillon** <br> Smithsonian Tropical Research Institute](images/erin.jpg){width="100%"}
 
 :::
 
 ::: {.g-col-4}
 
-![INSTRUCTOR 3](https://palaeoverse.org/images/logo.png)
+![**Mark Nikolic** <br> Stanford University](images/mark.jpg){width="100%"}
+
+:::
+
+::: {.g-col-4}
+
+![**Brok Kokesh** <br> University of California, Berkeley](images/broc.jpg){width="100%"}
+
+:::
+
+::: {.g-col-4}
+
+![**Pedro M. Monarrez** <br> Virginia Tech](images/pedro.jpg){width="100%"}
 
 :::
 
@@ -67,6 +79,12 @@ install.packages()
 
 ## Acknowledgements
 
-This event is run by the [Palaeoverse](https://palaeoverse.org) and supported by...
+This event is run by the [Palaeoverse](https://palaeoverse.org) and supported by the [Paleontological Society](https://www.paleosoc.org/).
 
-![](https://palaeoverse.org/images/logo.png){width="20%"}
+::: {layout-ncol=2 layout-valign="center"}
+
+![](images/logo.png)
+
+![](images/paleosoc.jpg)
+:::
+
