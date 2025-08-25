@@ -5,9 +5,10 @@ toc: true
 order: 96
 ---
 
-**[INSERT WORKSHOP DATE/TIME]**
+**Saturday, October 18, 2025**<br>
+8:00 AM - 5:30 PM
 
-[INSERT WORKSHOP LOCATION]
+Henry B. González Convention Center
 
 # Welcome
 
@@ -17,18 +18,20 @@ Since the development of large paleontological datasets from the 1970s onwards, 
 
 The event starts at XXX on the XXX and will take place at XXX.
 
-The full schedule for the workshop is available [here](#schedule).
-
 ## Schedule
 
-| Time            | Event                       |
-|-----------------|-----------------------------|
-| **PLACEHOLDER** | **PLACEHOLDER**             |
-| **PLACEHOLDER** | **PLACEHOLDER**             |
-| **PLACEHOLDER** | **PLACEHOLDER**             |
-| **PLACEHOLDER** | **PLACEHOLDER**             |
-| **PLACEHOLDER** | **PLACEHOLDER**             |
-| **PLACEHOLDER** | **PLACEHOLDER**             |
+| Time      | Event                                                     |
+|-----------|-----------------------------------------------------------|
+| **08:00 AM** | **Welcome and introduction**                              |
+| **08:30 AM** | **Setting up a reproducible workflow (GitHub, GitHub Desktop, RStudio)**      |
+| **10:00 AM** | ***Coffee break***☕                                     |
+| **10:15 AM** | **Data acquisition**                                      |
+| **10:45 AM** | **Data Processing I: Data exploration and cleaning**      |
+| **12:00 PM** | ***Lunch break*** 🥪                                     |
+| **1:30 PM**  | **Data Processing II: Data visualization and synthesis**  |
+| **3:15 PM**  | ***Coffee break***☕                                     |
+| **3:30 PM**  | **Open science presentation/breakout (reporting, archiving, and publishing)**  |
+| **4:45 PM**  | **Closing remarks**                                 |
 
 ## Instructors
 
