@@ -8,7 +8,9 @@ order: 96
 **Saturday, October 18, 2025**<br>
 8:00 AM - 5:30 PM
 
-Henry B. González Convention Center
+**Room 211**<br>
+Henry B. González Convention Center<br>
+San Antonio, TX, USA
 
 # Welcome
 
@@ -16,7 +18,7 @@ Since the development of large paleontological datasets from the 1970s onwards, 
 
 ## Arrival
 
-The event starts at XXX on the XXX and will take place at XXX.
+The workshop takes place 8:00 AM - 5:30 PM on Saturday, October 18, 2025. Check-in starts at 7:30 AM.
 
 ## Schedule
 
@@ -24,13 +26,13 @@ The event starts at XXX on the XXX and will take place at XXX.
 |-----------|-----------------------------------------------------------|
 | **08:00 AM** | **Welcome and introduction**                              |
 | **08:30 AM** | **Setting up a reproducible workflow (GitHub, GitHub Desktop, RStudio)**      |
-| **10:00 AM** | ***Coffee break***☕                                     |
+| **10:00 AM** | ***Coffee break*** ☕                                     |
 | **10:15 AM** | **Data acquisition**                                      |
 | **10:45 AM** | **Data Processing I: Data exploration and cleaning**      |
 | **12:00 PM** | ***Lunch break*** 🥪                                     |
 | **1:30 PM**  | **Data Processing II: Data visualization and synthesis**  |
-| **3:15 PM**  | ***Coffee break***☕                                     |
-| **3:30 PM**  | **Open science presentation/breakout (reporting, archiving, and publishing)**  |
+| **3:15 PM**  | ***Coffee break*** ☕                                     |
+| **3:30 PM**  | **Open science presentation/breakout (FAIR/CARE, archiving)**  |
 | **4:45 PM**  | **Closing remarks**                                 |
 
 ## Instructors
@@ -41,7 +43,7 @@ This edition of the Workshop event is organised and led by the following members
 
 ::: {.g-col-4}
 
-![**Will Gearty** <br> Syracuse University, USA](images/will.jpg){width="100%"}
+![**Will Gearty** <br> Syracuse University](images/will.jpg){width="100%"}
 
 :::
 
